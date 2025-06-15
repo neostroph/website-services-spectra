@@ -21,7 +21,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                    At **Spectra Events**, we specialize in a wide range of events, including corporate gatherings (conferences, product launches, galas), personal celebrations (weddings, anniversaries, birthdays), and unique themed parties. We're equipped to handle both large-scale productions and intimate affairs.
+                                    At Spectra Events, we specialize in a wide range of events, including corporate gatherings (conferences, product launches, galas), personal celebrations (weddings, anniversaries, birthdays), and unique themed parties. We&#39;re equipped to handle both large-scale productions and intimate affairs.
                                 </Disclosure.Panel>
                             </>
                         )}
@@ -41,7 +41,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                    Our process begins with an **initial consultation** to understand your vision, objectives, and budget. From there, we move to **concept development**, followed by detailed **planning and vendor selection**. We manage all logistics, from timelines to on-site coordination, ensuring a seamless and stress-free experience for you.
+                                    Our process begins with an initial consultation to understand your vision, objectives, and budget. From there, we move to concept development, followed by detailed planning and vendor selection. We manage all logistics, from timelines to on-site coordination, ensuring a seamless and stress-free experience for you.
                                 </Disclosure.Panel>
                             </>
                         )}
@@ -61,7 +61,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                    Absolutely! We pride ourselves on creating incredible events for various budgets. During our initial consultation, we'll discuss your financial parameters in detail. We'll then provide creative solutions and work diligently to maximize your budget while delivering an unforgettable experience.
+                                    Absolutely! We pride ourselves on creating incredible events for various budgets. During our initial consultation, we&#39;ll discuss your financial parameters in detail. We&#39;ll then provide creative solutions and work diligently to maximize your budget while delivering an unforgettable experience.
                                 </Disclosure.Panel>
                             </>
                         )}
@@ -81,7 +81,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                    Yes, **Spectra Events** is experienced in planning and executing successful virtual and hybrid events. Whether you need a fully online conference or a blended event with both in-person and remote attendees, we have the expertise and technology partners to ensure a seamless experience.
+                                    Yes, Spectra Events is experienced in planning and executing successful virtual and hybrid events. Whether you need a fully online conference or a blended event with both in-person and remote attendees, we have the expertise and technology partners to ensure a seamless experience.
                                 </Disclosure.Panel>
                             </>
                         )}
