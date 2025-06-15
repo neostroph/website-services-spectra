@@ -5,9 +5,9 @@ const Join = () => {
 
                 <div className="text-center">
                     <h3 className="text-blue text-lg font-normal tracking-widest">GET STARTED</h3>
-                    <h2 className="text-4xl sm:text-6xl font-bold my-6 leading-10"> Let's Plan Your Next <br /> Unforgettable Event.</h2>
+                    <h2 className="text-4xl sm:text-6xl font-bold my-6 leading-10"> Let&#39;s Plan Your Next <br /> Unforgettable Event.</h2>
                     <p className="text-lightblack text-base font-normal">
-                        Ready to bring your vision to life? Tell us about your event, and our team at **Spectra Events** <br /> will get in touch to discuss how we can create a truly spectacular experience.
+                        Ready to bring your vision to life? Tell us about your event, and our team at Spectra Events <br /> will get in touch to discuss how we can create a truly spectacular experience.
                     </p>
                 </div>
 
